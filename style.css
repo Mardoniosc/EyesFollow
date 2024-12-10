@@ -10,6 +10,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #2e7fbd;
+  overflow: hidden;
 }
 
 .eyes {
